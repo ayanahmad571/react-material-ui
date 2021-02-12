@@ -13,6 +13,7 @@ const NavBar = () => {
                 </Typography>
             </Toolbar>
         </AppBar>
+        
         </div>
     )
 }
